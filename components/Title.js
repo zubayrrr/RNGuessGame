@@ -10,6 +10,7 @@ export default Title;
 const styles = StyleSheet.create({
   title: {
     fontSize: 24,
+    fontFamily: "helvetica-regular",
     fontWeight: "bold",
     color: Colors.primary[50],
     textAlign: "center",
